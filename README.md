@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-128&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-128" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and Natural Language Processing.**
-
 - 💬 Ask me about **Java, Competitive Programming, Android Development, Data Analysis.**
 
 - 📫 How to reach me **abhayjagetiya12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhay jagetiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay jagetiya" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhay-jagetiya-717620208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay jagetiya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhay128" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhay128" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhayjagetiya121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhayjagetiya121" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhay128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhay128" height="30" width="40" /></a>
