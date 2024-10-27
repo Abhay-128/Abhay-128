@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhay Jagetiya</h1>
-<h3 align="center">I am a student and a passionate programmer with a curiosity of learning new things.</h3>
+<h3 align="center">I am a Software Engineer with a curiosity of learning new things.</h3>
 
 <img align="right" alt="coding" widht="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47goqo85omixhj1p94zo4f5yogjuvhbcnw75y0q936&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-128&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-128" /> </p>
 
-- 💬 Ask me about **Java, Spring-Boot, Programming logics, Android Development, Data Analysis.**
+- 💬 Ask me about **Java, Spring-Boot, Programming logics, Backend Development, System design, Data Analysis.**
 
 - 📫 How to reach me **abhayjagetiya12345@gmail.com**
 
