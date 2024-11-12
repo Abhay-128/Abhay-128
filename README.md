@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Jagetiya</h1>
-<h3 align="center">I am a Software Engineer with a curiosity of learning new things.</h3>
+<h3 align="center">I am a Software Engineer with a curiosity of learning new things. I am currently working at a fast paced Fintech Startup - Stride Green.</h3>
 
 <img align="right" alt="coding" widht="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47goqo85omixhj1p94zo4f5yogjuvhbcnw75y0q936&rid=giphy.gif&ct=g">
 
